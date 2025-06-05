@@ -25,3 +25,5 @@ cometchat
 webboard
 protected/vendors
 .well-known
+credentials.json
+credentialsold.json
